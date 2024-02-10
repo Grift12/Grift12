@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grift(Alex)</h1>
-<h3 align="center">Hi, I'm Backend Developer In Austria</h3>
+<h3 align="center">Hi, I'm a Developer In Austria</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0">
