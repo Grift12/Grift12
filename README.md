@@ -30,8 +30,6 @@
 **Github Skill Level:** ![====-------](https://progress-bar.dev/100/)
 
 
-- 🔭 I’m currently working on **Flexii Development**
-
 - 📫 How to reach me:
   
    - Send me a Direct Message on [Discord](https://discord.com): [`Grift.(grift12)`](https://discord.com/users/696632584506966016) 
