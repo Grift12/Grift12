@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Grift (Alex)</h1>
-<h3 align="center">I'm a developer from Austria</h3>
+<h1 align="left">Hi 👋, I'm Grift (Alex)</h1>
+<h3 align="left">I'm a developer from Austria</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -17,13 +17,9 @@
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grift12&show_icons=true&theme=dracula&hide=contribs" alt="Grift12's GitHub stats" />
-</p>
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grift12&theme=dracula)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grift12&layout=compact&langs_count=5&theme=dracula" alt="Grift12's most used languages" />
-</p>
+![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grift12&theme=dracula)
 
 ## My skills
 
