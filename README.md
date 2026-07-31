@@ -15,12 +15,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 </p>
 
-<br>
-<br>
+## About me
 
-## GitHub stats
+- 🇦🇹 Developer from Austria
+- 🐍 Currently learning Python and building Discord bots
+- 🛠️ Interested in backend development and automation
 
-![GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grift12&theme=dracula)
+## Current project
+
+### Innsbruck Roleplay Bot
+
+A modular Discord bot written in Python featuring:
+
+- A configurable ticket system
+- XP and leveling
+- Daily rewards and streaks
+- An interactive steal minigame
+
+[🔗 View the repository](https://github.com/Grift12/innsbruck-roleplay-bot)
 
 ## My skills
 
