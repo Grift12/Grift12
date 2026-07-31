@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Giftler (Alex)</h1>
+<h1 align="center">Hi 👋, I'm Grift (Alex)</h1>
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Giftler – Stefan Salvatore Banner" />
+</p>
+
 <h3 align="center">I'm a developer from Austria</h3>
 
 <p align="center">
@@ -13,7 +18,6 @@
 - 🇦🇹 Developer from Austria
 - 🐍 Currently learning Python and HTML while building Discord bots
 
-
 ## My skills
 
 ![Python skill](https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +26,5 @@
 
 ## Contact
 
-📫 Send me a direct message on Discord:
+📫 Send me a direct message on Discord:  
 [`Grift. (grift12)`](https://discord.com/users/696632584506966016)
-
-
