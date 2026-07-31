@@ -18,21 +18,8 @@
 ## About me
 
 - 🇦🇹 Developer from Austria
-- 🐍 Currently learning Python and building Discord bots
-- 🛠️ Interested in backend development and automation
+- 🐍 Currently learning Python and HTML while building Discord bots
 
-## Current project
-
-### Innsbruck Roleplay Bot
-
-A modular Discord bot written in Python featuring:
-
-- A configurable ticket system
-- XP and leveling
-- Daily rewards and streaks
-- An interactive steal minigame
-
-[🔗 View the repository](https://github.com/Grift12/innsbruck-roleplay-bot)
 
 ## My skills
 
