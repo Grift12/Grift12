@@ -31,4 +31,4 @@
 📫 Send me a direct message on Discord:
 [`Grift. (grift12)`](https://discord.com/users/696632584506966016)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/696632584506966016)](https://discord.com/users/696632584506966016)
+
