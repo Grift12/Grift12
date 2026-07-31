@@ -6,7 +6,6 @@
   <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" alt="" />
-  <img src="https://img.shields.io/badge/Pycord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Pycord" />
 </p>
 
 ## About me
