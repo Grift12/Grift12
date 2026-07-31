@@ -16,7 +16,7 @@
 
 ## My skills
 
-![Python skill](https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python skill](https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML skill](https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub skill](https://img.shields.io/badge/GitHub-10%25-181717?style=for-the-badge&logo=github&logoColor=white)
 
