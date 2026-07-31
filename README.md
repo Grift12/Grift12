@@ -28,7 +28,7 @@
 ## My skills
 
 ![Python skill](https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub skill](https://img.shields.io/badge/GitHub-100%25-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub skill](https://img.shields.io/badge/GitHub-10%25-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contact
 
